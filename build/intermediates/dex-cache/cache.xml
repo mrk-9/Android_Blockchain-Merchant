@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/b969bf94da29da2b37dab9db5bcc421e4bb90c56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="976b0a037981a05e685415093c67ad73c94d4846">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec898ff12b0944272155fe8b925207b8156bbaeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/5fcc05bb8e1c03fcf0c0cbb04986704669432ca6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="338791f0ad4a30593b69a9d083380ddb6789dd6a">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8db8f277612663f98563fad09623727f6ced4c48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/0a018df36814ba0a149e6d22aae8b02d04ac0f6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6cfe119a4d5986e4a93f4d14909f55871a601271">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d40931dd9fe45be188c055f1c6a03b9f3cd1c5ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/2048ba733d35c68575f5964f22b04256b224a5d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4737d9835cf3ea9751f7d6647be60900062d1062">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b308cf8e6bc4a3203baddb77d2c248f45baf5fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/10375ce6ded829c5df476e92c8f842b79373e9c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e015f5a6691f80b1f71e5299d48933be6a057963">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b12f1d0a178f92c0ff84ee6d4cca0759a53fc7c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/api-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4426b66d161673b28a3e3da633404fa9c86a3e6b">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/api-1.0.3_3cb0e4eca79f2c759933c4b8ebb500b3bdef5ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/2795bca1145a9c8caf7e19a3cc2df063c6ec3f3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f260cdc1a267b17b911022919f19d568e6624229">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_660d3c8dc0b1beff086a43f7f814f17b23bd3b3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/870360a38d5fd8c43c9b5197d6f8cdcc0964baf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="79a435f1c45ac04593a5134d70da983305584e90">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13866d568c489d41df69832b21e031bb812aa6e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/42c27c1192aeddab0714f2cd514fcb9feaabfe07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5aa1d9dd797df6eca7f9578f53f51fa64fc856c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/0467248416935d8e2de9f262b01fe1963d6d0d14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f813cc0713085e46735bcabf9def2ffb6419de7">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41f6922b9128d6f2f15798437a5cba693db36357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/6c9b383a40df2e45f86a2278d3964323a0b36197/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="240e5a7c620376184f3168cfdd36315b97b1fe07">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed5fc18267a8569adcecd2a3b4d93d8aa3af1620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/1dd5cbc9aad521e0b475fe89c4a46f6823c5bcc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af2bb3e630310467b1d75e6dfd384226c0158582/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/zbar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/zbar_7b86a7dd764113fe9774a79c359c12ab0f74a9de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/04e1c66d1ca6e87a6a435f4d3757e2bec7c222f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_812918032007b81a22924ef05be336a1101b4c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/7274902d948ec634a54b511c12e6a79cdd70b242/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50fde88f529e2c238d72467da774e113f47dc866">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c80062dbd43e0566f23ad98f0ca5f5d42aa4cdc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/70c2270133215aef5673285adb17490690b63f36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba90907329e4ed429307d39490927b456838bf08">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7a52952fdbfdca06ee5baef97e6720b75a5c985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/5617a0d5aeddd2bc13b81c2844027d5dcedaabf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ccace92c27d633c691b52e8b20cd599d33150fdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/1a3013fdc2243963fafd633fac2369fb9150fb46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fd6dc27f1ebe5bdbf26aa54773d11327f91532b">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3512e0f12c7528b91df980a4244b38dece80313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/943a7ae20f2fe3d78310eb805c32ff9141fa2ed4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="424e509954db08079f78b20947e2cf120c045e48">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6b1ddd896002d3cb14958be59515947c76bdc32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/64dca7d16afdb7f23711e58d1fdc9afd03e08dcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03711df0c11eb771a2115c76db9e271eddea1bb8">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e015e4c96c9f5d0364b771ae9495f12c4774d567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/fb937d0ff4495d17c4d4ba91e0acbd880f58079f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5563aa756deb2472d88cfc0c8eb517be74c78a94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/1f7feb79577c6eda3986a96b5a9b3db537ba446d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7357cef91864a283c8db913866f50bafbe8c6801">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4db6ce5bee1722195581d7db5bf960fab2a6241a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/951fcc1361515bcb8636a02ceb4b0e136e3e144d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72c9544d1be0431f932931c83c524a08dab3c697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/6a0abf5718d50b9d579d595c57d2b2d112774aeb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0f0f81cb63d32321ac1ad7b8522f469db01eab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/f92900c964229c46d81dfdd691a7a3414b6d9730/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53970f384218a89937f62e85abc5009e19632e24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/ead41307ad5aa6ae3657fcd9945adf31074fe1ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="314299924c4866a8fea850a6ab10a7751fbce79d">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aee06159975d2b26e0773f3706be0a8aa0ef5b7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.4_cd4e97ca29cb77365eec53209ae2eabdeb89f357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/12428f978e08c1c6bbfaa12c55ce44f3f6697c85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72940c338d33f55ad62c96b06068a817982f07d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/c24da7c5bb8a8e107b37fcbc34f9e0950e7eb47e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b84a791dc9bcda50cb84e4498e0502b3e4dfd47d">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f37d782d4307387d3ef1fc3d709b75e274e0a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/5667fb65c20c6229845236a398f86d91d33e04d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cdfe6f00bbbe6bf590b4306017d485d845ffc7e5">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0373cdc7f3526ad3160eb783259eeb2738fa7d25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/b995acec346cc971abd5f670bfc1b6a8d6b627ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acaf8846fcf5556493bdbe075b13ea664bb1e9f5">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9892fc54b2a90ae8f8a2b1e84ed7c0deb03b2434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/3254cc40f3fc70381e9edbead61716620ce9d9d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d6fdbc9c264e2179354497583eaf854241b5549/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd6b097588487313f7a94914fb89d44238964977">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/core_becadb9e1825523381eb714ff0d039b9f8b2ada7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/15c464e2ccd327b568a4565579a1c3952db8360b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5493a7c08b74d424d08a23c68334893cfd2d5ee3">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47066078e1c1d049e8d468466bf58d56c9bf81e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/protobuf-java-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a10732c76bfacdbd633a7eb0f7968b1059a65dfa">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/protobuf-java-2.5.0_b54eeb16bd57a0837d73f1678c0ba7e1349be1ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/c30f66f175c9f254edda094eb6f75190274bde09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bad89ac06f1015490c3332c1cd160be1d17c049">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_726d082cd8ecca0829a106272fc698ad0cc1ab85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/20ee537898c04c30134e8e39933f7e8b55d87ead/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25b0fba114477ac4ce1ce624cb02687695107258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/0d1d1d9aaf75562b925996b3fc28e3c4f5886e33/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2df23fb8581e8503db6e33739b450f9eb4a8b30a">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65593851419f9a7f4218b635ba6afd59df11f599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/edd69363e236f89e9025ca6d288cd407968023c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea511b1e3f6143d50b2eb18cfb988c8fbdd01a1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/3978e95aa16e2b3bf25c5cda7d5a7bd6e242e6e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="885bcb023a9b57ed31c305e2e94e31af909e21c5">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28a09e8bf2d60bcf5e4caf3b9499cc4c5f21b9a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/5ed52c50eec6539764e6b205010e63e4729625ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0cccf7679b2764a849f90e2b581e2ec8d411679f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab20dfdf43935f03e996a4d4953401d3b5397dbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/70db33ce38c7f105d668ce10ef54c4a487b49022/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c6a0af36142b32d1f81ab099b73e90a25e360e2">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e74ead22a7a52f9912b1c23011f54aa235e2ee91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/2c7722f839b48769e88825c430ce11fd04d84e13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f909161e9bac1dd36538a275f06cae462082316a">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40d90d248b470f9aed8e8ae4c756aa27c6ceb7e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/de878da3517209ad4980b14d0885419b162dd759/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a7f411c2c948c5f3e4fac5839d42c0690460d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/57d6a6207986570ea98e0625136565cb70d25a5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="587840a157b50a6380d814a7a5a87b76118405e2">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edf8ce0a6e49554a58f4fede489aef379a14ebfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/602a995a484cf685b24214bd4e44c3d4de08c186/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15857dce424132cb53e37cba16b9d587a6c5c568">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d756fb95d47443d4d59fe9648d4f67ba1bb6948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/ac961fec1a3416fa2e6612f3196ce4b19e3fa452/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d3a27693b28b46af644df8ce765f4252b32c9e87">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_354658eed1d0a17466de3569f7317b8d366859ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/4da8424c4bcd32c889803215aac0803827ac15d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e95bbad0bbcb33e38585833f5be880bde997195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/d1c470d69c9dc834167d6a3ca2ac530b5357e63d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25c862ccc7a67cc4682ea9cacf08918693e915ef">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89b1b50d80ed4703ad27c7d380c265ea93214579/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/slf4j-api-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8619e95939167fb37245b5670135e4feb0ec7d50">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/slf4j-api-1.6.2_f45e3b7141ce3471323410408f2ef6926164971a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/b40ae847a064895b7470f4f586599006c6cac1c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="543cbd7526b5bf05a5a1be344c53b1994f22a04f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a58b11bebf1c6f757472f038c0e9fe2ec301569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/e6906694f645db09be9ee73b14d192e6739fd11b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2578c3a8958e986d2720059c40ad90228ce0991a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/MyWalletHD.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="129cb3422f465517c2b5a815a18751ac650e6682">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/MyWalletHD_4d47fb991ab5bc0f0a061e7146b23cf8d5504d1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/b3a24d606ec04680a3e8970177b8f00a39726f9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="acd4f9fad8500386084346a88ca47e2b66e84ffd">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2245615b27aa8111c8af7edd99afd4aead7a69c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/82e9dbd940a6bb99845896dad8e47eabf037994a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9bc3e11fbff8e0d503ff795c12c73e1a6fad7a9">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5330f6fbbd703e182a35e407d050b9aa55273229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/181d4b517ce623735a089ca5e636a4f07b280dc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e4ff475aad14939684efd3227ec19cd49e90888f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2055cf94dbcc725cadf0de98e4c2b0d4930ec516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/0894a39b7229afd01cb18febbbfb9b85a7023fff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec44311964ce6fd30c0e05159dd96089dd1bb256/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/5177965f6a129280cd013879859fd270c515a8e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2bae22c4925830cc03e81f4911f62b445bf132f">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f474d513059bc6ac7539617629a30154178afc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/f898a03be0a8203c68f0988bae7c2f53fd3255d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_682b5a98339dec63d19e665caa3f06120061c82d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/b147c853a84f97e5d64d1c6791ddcbb01d07d97c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5da59bfe8bee5a41daa7c26b970b12699ac8db">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2080997b696dcfef03377f4aa3bd07501b1edbbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b326febd33e1ee59dfd7145031c3b99443116b53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/3d9dd18eca6f9e0791a4d10565f3579a8913bcbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68a1346f52b0e623460bf2f70c59c59a7a34bcea">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ff39baf6a5e8768b81c3547f89a3973507b5c61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alex/.android/build-cache/2f1db3a5212aa7bee54b4e21a1c1bb04e7b70220/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1a509d5d51ac39e1317f01602eb893e2b10de98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="77a39a0e518e29583b252dd5fc50dc9a7f56ca51">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fe66a703282b2329d79754048bd80efb6cc65331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.5_9a7b048f2b0d40ed1a0c82c5a2721f04f282a8ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/libs/bitcoinj-core-0.13.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fed11e23033a8bb456bc024b7a29dce994c499a1">
+        <dex dex="/Volumes/Work/2017/15_Bitcoin/Android-Merchant/Merchant/app/build/intermediates/transforms/dex/debug/folders/1000/2/bitcoinj-core-0.13.3_d57d300e8ac901dfefe881ec37213cd6ed43219e/classes.dex" />
+    </item>
+
+</items>

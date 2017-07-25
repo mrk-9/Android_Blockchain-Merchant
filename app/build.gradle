@@ -1,0 +1,58 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "otgc.com.merchant"
+
+        manifestPlaceholders = [onesignal_app_id: "75c07185-bc78-4940-885f-2c8d03f25dde",
+                                // Project number pulled from dashboard, local value is ignored.
+                                onesignal_google_project_number: "REMOTE"]
+
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a"
+        }
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:customtabs:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.google.guava:guava:16.0.1'
+    compile 'com.madgag.spongycastle:core:1.52.0.0'
+    compile 'com.neovisionaries:nv-websocket-client:1.9'
+    compile 'org.thoughtcrime.ssl.pinning:AndroidPinning:1.0.0'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'de.hdodenhof:circleimageview:2.1.0'
+    compile 'com.onesignal:OneSignal:[3.5.3,4.0.0)'
+    compile 'com.google.android.gms:play-services:11.0.2'
+//    compile 'com.android.support:recyclerview-v7:22.2.0'
+    compile files('libs/core.jar')
+    compile files('libs/zbar.jar')
+    compile files('libs/MyWalletHD.jar')
+    compile files('libs/bitcoinj-core-0.13.3.jar')
+    compile files('libs/slf4j-api-1.6.2.jar')
+    compile files('libs/api-1.0.3.jar')
+    compile files('libs/gson-2.5.jar')
+    testCompile 'junit:junit:4.12'
+}

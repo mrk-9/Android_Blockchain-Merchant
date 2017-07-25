@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_charge"
+            android:icon="@mipmap/ic_menu0"
+            android:title="Charge" />
+        <item
+            android:id="@+id/nav_transaction"
+            android:icon="@mipmap/ic_menu1"
+            android:title="Transactions" />
+        <item
+            android:id="@+id/nav_atms"
+            android:icon="@mipmap/ic_menu2"
+            android:title="ATMs" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@mipmap/ic_menu3"
+            android:title="News &amp; Promos" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@mipmap/ic_menu4"
+            android:title="Contact" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@mipmap/ic_menu5"
+            android:title="About us" />
+        <item
+            android:id="@+id/nav_setttings"
+            android:icon="@mipmap/ic_menu6"
+            android:title="Settings" />
+    </group>
+
+</menu>

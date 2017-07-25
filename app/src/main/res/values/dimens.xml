@@ -1,0 +1,27 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="font_size_tiny">12sp</dimen>
+    <dimen name="font_size_small">15sp</dimen>
+    <dimen name="font_size_normal">18sp</dimen>
+    <dimen name="font_size_xlarge">28sp</dimen>
+    <dimen name="symbol_size_normal">14sp</dimen>
+    <dimen name="list_entry_padding_horizontal">8dp</dimen>
+    <dimen name="list_entry_padding_vertical">6dp</dimen>
+    <dimen name="action_bar_height">48dp</dimen>
+    <dimen name="action_bar_button_width">48dp</dimen>
+    <dimen name="action_bar_button_separator_width">1dp</dimen>
+    <dimen name="action_bar_button_separator_margin">8dp</dimen>
+    <dimen name="wallet_address_qr_size">96dp</dimen>
+
+    <item name="address_scalex" type="dimen">1.0</item>
+
+    <dimen name="pinentry_num_text_size">25sp</dimen>
+    <dimen name="pinentry_alpha_text_size">9sp</dimen>
+    <dimen name="pinentry_padding">5dp</dimen>
+</resources>

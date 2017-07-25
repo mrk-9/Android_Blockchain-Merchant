@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:paddingRight="12dp"
+        android:paddingLeft="12dp">
+
+        <TextView
+            android:id="@+id/main_subtotal_text"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:layout_gravity="center_vertical"
+            android:text="@string/transaction_subtotal"
+            android:textColor="@android:color/black"/>
+
+        <RelativeLayout
+            android:id="@+id/subtotal_container"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_edittext"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            >
+
+            <TextView
+                android:id="@+id/main_subtotal_edit"
+                android:layout_width="match_parent"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/main_currency1"
+                android:layout_marginRight="10dp"
+                android:layout_centerVertical="true"
+                android:textColor="@android:color/black"
+                android:textAlignment="textEnd"
+                android:textSize="17dp"
+                android:background="@drawable/bg_edittext_sp"/>
+
+            <TextView
+                android:id="@+id/main_currency1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:paddingRight="12dp"
+        android:paddingLeft="12dp">
+
+        <TextView
+            android:id="@+id/main_tip_text"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:layout_gravity="center_vertical"
+            android:text="@string/transaction_tip"
+            android:textColor="@android:color/black"/>
+
+        <RelativeLayout
+            android:id="@+id/tip_container"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_edittext"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            >
+
+            <TextView
+                android:id="@+id/main_tip_edit"
+                android:layout_width="match_parent"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/main_currency2"
+                android:layout_marginRight="10dp"
+                android:layout_centerVertical="true"
+                android:textColor="@android:color/black"
+                android:textAlignment="textEnd"
+                android:textSize="17dp"
+                android:background="@drawable/bg_edittext_sp" />
+
+            <TextView
+                android:id="@+id/main_currency2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="8dp"
+        android:paddingRight="12dp"
+        android:paddingLeft="12dp">
+
+        <TextView
+            android:id="@+id/main_total_text"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:layout_gravity="center_vertical"
+            android:text="@string/transaction_total"
+            android:textColor="@android:color/black"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_edittext"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/main_total_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/main_currency3"
+                android:layout_marginRight="10dp"
+                android:layout_centerVertical="true"
+                android:textColor="@android:color/black"
+                android:textAlignment="textEnd"
+                android:textSize="17dp"
+                android:background="@drawable/bg_edittext_sp" />
+
+            <TextView
+                android:id="@+id/main_currency3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/merchant_note"
+        android:textColor="@color/blockchain_red"
+        android:textSize="14dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="30dp"/>
+
+    <include layout="@layout/include_container_shadow_top"/>
+    <include layout="@layout/include_numeric_keypad"/>
+    <include layout="@layout/include_container_shadow_bottom"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:id="@+id/main_cancel_button"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:text="@string/cancel"
+            android:textSize="20dp"
+            android:textColor="@color/white"/>
+        <TextView
+            android:id="@+id/main_pay_button"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:text="@string/pay"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

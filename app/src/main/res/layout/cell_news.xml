@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp">
+
+    <TextView
+        android:text="22/06/2017"
+        android:id="@+id/news_date"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:textColor="@android:color/holo_green_dark"/>
+    <TextView
+        android:text="The Summer is on and our fees are off!"
+        android:id="@+id/news_title"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

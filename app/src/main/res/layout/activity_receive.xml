@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:minWidth="420dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_merchant_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:text=""
+        android:textColor="@color/blockchain_blue"
+        android:textSize="22sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/blockchain_light_grey"/>
+
+    <TextView
+        android:id="@+id/tv_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Waiting For Payment"
+        android:textColor="@color/blockchain_red"
+        android:paddingTop="10dp"
+        android:textSize="16sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/qr"
+            android:layout_width="@dimen/qr_code_size"
+            android:layout_height="@dimen/qr_code_size"
+            android:layout_gravity="center_horizontal"
+            android:visibility="gone"
+            />
+
+        <ImageView
+            android:id="@+id/iv_check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:padding="20dp"
+            android:background="@drawable/round_view_green"
+            android:src="@mipmap/ic_done_white_48dp"
+            android:visibility="gone"
+            />
+
+        <LinearLayout
+            android:id="@+id/progressLayout"
+            android:layout_width="@dimen/qr_code_size"
+            android:layout_height="@dimen/qr_code_size"
+            android:gravity="center">
+
+            <ProgressBar
+                android:id="@+id/progress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:indeterminate="true"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:visibility="gone"
+            android:text=""/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_fiat_amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="@color/primary_text_default_material_light"
+        android:textSize="22sp"/>
+
+    <TextView
+        android:id="@+id/tv_btc_amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0.7"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="@color/primary_text_default_material_light"
+        android:textSize="12sp"/>
+
+    <ImageView
+        android:id="@+id/iv_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:src="@mipmap/ic_clear_white_48dp"
+        android:tint="@color/blockchain_red"
+        android:scaleType="center"/>
+
+</LinearLayout>

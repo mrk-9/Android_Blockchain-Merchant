@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Default screen margins, per the Android Design guidelines. -->
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+
+	<dimen name="font_size_tiny">12sp</dimen>
+	<dimen name="font_size_small">15sp</dimen>
+	<dimen name="font_size_normal">18sp</dimen>
+	<dimen name="font_size_xlarge">28sp</dimen>
+	<dimen name="symbol_size_normal">14sp</dimen>
+	<dimen name="list_entry_padding_horizontal">8dp</dimen>
+	<dimen name="list_entry_padding_vertical">6dp</dimen>
+	<dimen name="action_bar_height">48dp</dimen>
+	<dimen name="action_bar_button_width">48dp</dimen>
+	<dimen name="action_bar_button_separator_width">1dp</dimen>
+	<dimen name="action_bar_button_separator_margin">8dp</dimen>
+	<dimen name="wallet_address_qr_size">96dp</dimen>
+
+	<dimen name="amount_entry_height">50dp</dimen>
+	<dimen name="amount_entry_size">38sp</dimen>
+	<dimen name="amount_entry_width">260sp</dimen>
+	<dimen name="currency_symbol_size">38sp</dimen>
+	<dimen name="currency_symbol_width">40sp</dimen>
+	<dimen name="continue_width">60sp</dimen>
+	<dimen name="note_entry_width">230sp</dimen>
+	<dimen name="vertical_margin">6dp</dimen>
+	<dimen name="vertical_margin_large">32dp</dimen>
+	<dimen name="currency_display_size">18sp</dimen>
+	<dimen name="sending_address_size">14sp</dimen>
+
+	<dimen name="payment_amount_height">90dp</dimen>
+	<dimen name="transaction_height">84dp</dimen>
+	<dimen name="transaction_height_half">42dp</dimen>
+	<dimen name="transaction_incoming_btc_height">84dp</dimen>
+	<dimen name="transaction_column_width">125dp</dimen>
+	<dimen name="transaction_note_width">95dp</dimen>
+	<dimen name="transaction_text_size">12sp</dimen>
+	<dimen name="transaction_amount_size">18sp</dimen>
+	<dimen name="transaction_amount_size_superscript">16sp</dimen>
+	<dimen name="transaction_date_size">16sp</dimen>
+
+	<dimen name="qr_code_size">200dp</dimen>
+
+	<item name="address_scalex" type="dimen">0.78</item>
+
+</resources>

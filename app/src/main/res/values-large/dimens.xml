@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<dimen name="font_size_tiny">14sp</dimen>
+	<dimen name="font_size_small">18sp</dimen>
+	<dimen name="font_size_normal">22sp</dimen>
+	<dimen name="font_size_xlarge">34sp</dimen>
+	<dimen name="symbol_size_normal">17sp</dimen>
+	<dimen name="list_entry_padding_horizontal">16dp</dimen>
+	<dimen name="list_entry_padding_vertical">12dp</dimen>
+	<dimen name="action_bar_height">56dp</dimen>
+	<dimen name="action_bar_button_width">56dp</dimen>
+	<dimen name="wallet_address_qr_size">128dp</dimen>
+
+	<dimen name="amount_entry_height">80dp</dimen>
+	<dimen name="amount_entry_size">68sp</dimen>
+	<dimen name="amount_entry_width">450sp</dimen>
+	<dimen name="currency_symbol_size">68sp</dimen>
+	<dimen name="currency_symbol_width">70sp</dimen>
+	<dimen name="continue_width">70sp</dimen>
+	<dimen name="note_entry_width">400sp</dimen>
+	<dimen name="vertical_margin">12dp</dimen>
+	<dimen name="vertical_margin_large">44dp</dimen>
+	<dimen name="currency_display_size">30sp</dimen>
+	<dimen name="sending_address_size">20sp</dimen>
+
+	<dimen name="payment_amount_height">110dp</dimen>
+	<dimen name="transaction_height">100dp</dimen>
+	<dimen name="transaction_height_half">50dp</dimen>
+	<dimen name="transaction_incoming_btc_height">100dp</dimen>
+	<dimen name="transaction_column_width">200dp</dimen>
+	<dimen name="transaction_note_width">160dp</dimen>
+	<dimen name="transaction_text_size">20sp</dimen>
+	<dimen name="transaction_amount_size">28sp</dimen>
+	<dimen name="transaction_amount_size_superscript">22sp</dimen>
+	<dimen name="transaction_date_size">22sp</dimen>
+
+	<dimen name="qr_code_size">350dp</dimen>
+
+</resources>

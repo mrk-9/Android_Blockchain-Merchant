@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/name_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_edittext"
+        android:textColorHint="@color/blockchain_grey"
+        android:textColor="@android:color/black"
+        android:hint="@string/business_name"
+        android:padding="5dp"/>
+
+    <EditText
+        android:id="@+id/currency_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_edittext"
+        android:textColorHint="@color/blockchain_grey"
+        android:textColor="@android:color/black"
+        android:hint="CAD"
+        android:focusable="false"
+        android:padding="5dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp" >
+
+        <EditText
+            android:id="@+id/address_reg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/camera_reg"
+            android:layout_marginRight="20dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/bg_edittext"
+            android:textColorHint="@color/blockchain_grey"
+            android:textColor="@android:color/black"
+            android:hint="Wallet Address"
+            android:padding="5dp" />
+        
+        <ImageView
+            android:id="@+id/camera_reg"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentEnd="true"
+            android:src="@mipmap/ic_qr"/>
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/pin_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_edittext"
+        android:textColorHint="@color/blockchain_grey"
+        android:textColor="@android:color/black"
+        android:hint="Pin"
+        android:padding="5dp"
+        android:focusable="false"/>
+
+</LinearLayout>

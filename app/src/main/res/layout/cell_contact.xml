@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="46dp"
+    android:paddingLeft="15dp"
+    >
+
+    <ImageView
+        android:id="@+id/contact_image"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@mipmap/icons8_0"
+        android:layout_gravity="center_vertical"
+        />
+    <TextView
+        android:text="Website"
+        android:id="@+id/contact_title"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:textColor="@android:color/black"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:textSize="17dp"
+        />
+
+</LinearLayout>
